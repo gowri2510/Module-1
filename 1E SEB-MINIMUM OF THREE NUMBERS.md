@@ -16,8 +16,8 @@ To write a Python program to find the minimum between three integer numbers usin
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
+# Reg.No-212223060072
+# Name-Gowri.M
 # Write your code here
 
 num1 = int(input())
@@ -30,5 +30,7 @@ print(f"The minimum of {num1}, {num2}, {num3} is {min_num}")
 ```
 
 ## OUTPUT
+<img width="751" height="359" alt="{35FF096A-EF46-4B61-A6DC-B16FB4B6E34C}" src="https://github.com/user-attachments/assets/57d051df-0523-4db9-aa82-9b831e4285b1" />
 
 ## RESULT
+The program was successfully executed. It correctly identified the minimum number between three integers using a conditional expression.
